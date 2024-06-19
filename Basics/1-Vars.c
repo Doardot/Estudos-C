@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int vars()
+void vars()
 {
     /*
     float = 4 bytes (32 bits of precision) 6 - 7 digits %f
